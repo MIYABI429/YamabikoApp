@@ -1,7 +1,5 @@
 package com.tuyano.springboot;
 
-
-
-public class Controller {
+public class Controller1 {
 
 }
